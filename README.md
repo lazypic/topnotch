@@ -18,6 +18,9 @@
 ## 성수동
 [Cafe.Orot](https://www.google.com/maps/place/카페오롯/@37.5484542,127.0473893,17z/data=!3m1!4b1!4m5!3m4!1s0x357ca498157d9e81:0x8d06de22b2ec19bb!8m2!3d37.54845!4d127.049578),
 
+# 오키나와
+[Cafe.Shinryokan](https://www.google.co.kr/maps/place/Cafe+Shinryokan/@26.5421784,127.9335296,14z/data=!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0xb5d54005a256453b!8m2!3d26.5421778!4d127.9335272?hl=ko),
+
 # 베트남 다낭
 [43 factory](https://www.google.com/maps/place/43+Factory+Coffee/@16.0479825,108.2440444,17z/data=!3m1!4b1!4m5!3m4!1s0x314217b3ee661bef:0x516cdf137fb627ef!8m2!3d16.0479774!4d108.2462331),
 [6/6](https://www.google.com/maps/place/SIX+ON+SIX+cafe/@16.0427733,108.2423187,17z/data=!3m1!4b1!4m5!3m4!1s0x31421766e7e7a589:0xd9a579d9ca3dd6d!8m2!3d16.0427682!4d108.2445074),
