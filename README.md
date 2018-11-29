@@ -18,6 +18,9 @@
 ## 성수동
 [Cafe.Orot](https://www.google.com/maps/place/카페오롯/@37.5484542,127.0473893,17z/data=!3m1!4b1!4m5!3m4!1s0x357ca498157d9e81:0x8d06de22b2ec19bb!8m2!3d37.54845!4d127.049578),
 
+## 청담동
+[R고기](https://www.google.co.kr/maps/place/R고기/@37.5261354,127.0426545,17z/data=!3m1!4b1!4m5!3m4!1s0x357ca47979bb8531:0x9c57f9e5038f33ef!8m2!3d37.5261354!4d127.0448432?hl=ko),
+
 # 오키나와
 [Cafe.Shinryokan](https://www.google.co.kr/maps/place/Cafe+Shinryokan/@26.5421784,127.9335296,14z/data=!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0xb5d54005a256453b!8m2!3d26.5421778!4d127.9335272?hl=ko),
 
