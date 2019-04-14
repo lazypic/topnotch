@@ -7,7 +7,6 @@
 [Astrud Brewers](https://www.google.com/maps/place/아스트루드/@37.673243,126.7729369,17z/data=!3m1!4b1!4m5!3m4!1s0x357c8ffbc192ed77:0x726518770948d00e!8m2!3d37.6732388!4d126.7751256),
 
 ## 판교
-[Ronnefeldt Tea House](https://www.google.com/maps/place/로네펠트+티하우스/@37.3975196,127.1088083,17z/data=!3m1!4b1!4m5!3m4!1s0x357b5809e710384d:0x5b76e27e05e8e8c5!8m2!3d37.3975154!4d127.110997),
 [미다원](https://www.google.com/maps/place/Midawon/@37.401236,127.1064533,17z/data=!3m1!4b1!4m5!3m4!1s0x357ca7f434577899:0x57253073f0a7edad!8m2!3d37.4012318!4d127.108642),
 
 # 서울
