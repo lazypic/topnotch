@@ -11,6 +11,9 @@
 
 ## 서울
 
+#### 연남동
+- VER'S HOUSE
+
 #### 강남역
 [Alver](https://www.google.com/maps/place/Alver+Coffee/@37.5030408,127.0278761,20.46z/data=!4m12!1m6!3m5!1s0x357ca1598c361b2b:0xdbf9af292beff3c!2sGangnam!8m2!3d37.497942!4d127.027621!3m4!1s0x0:0xb2794c7375e0229f!8m2!3d37.5030004!4d127.0280904),
 
